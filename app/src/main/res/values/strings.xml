@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FBAdsT</string>
+
+    <string name="fb_banner">IMG_16_9_APP_INSTALL#{your-placement-id}</string>
+    <string name="fb_inter">IMG_16_9_APP_INSTALL#{your-placement-id}</string>
+    <string name="fb_native">IMG_16_9_APP_INSTALL#{your-placement-id}</string>
+</resources>
